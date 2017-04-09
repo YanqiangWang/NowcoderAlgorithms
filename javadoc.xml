@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<project default="javadoc">
+    <target name="javadoc">
+        <javadoc access="public" additionalparam=" -encoding UTF-8 -charset UTF-8 -tag date:a:&quot;date&quot; -tag Description" author="true" classpath="D:\MyEclipse2016\plugins\org.hamcrest.core_1.3.0.v201303031735.jar;D:\MyEclipse2016\plugins\org.junit_4.12.0.v201504281640\junit.jar" destdir="doc" nodeprecated="false" nodeprecatedlist="false" noindex="false" nonavbar="false" notree="false" packagenames="com.nowcoder.test,com.nowcoder.sort,com.nowcoder.sort.assignments" source="1.8" sourcepath="src" splitindex="true" use="true" version="true"/>
+    </target>
+</project>
